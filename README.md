@@ -21,7 +21,7 @@ This is a simple Tic Tac Toe game implemented as a web application using HTML, C
 * Winning: The game announces the winner or declares a draw when the board fills up without a winner.
 
 ## link of the project:
-link : 
+link : https://github.com/MarellaDeepika/PRODIGY_WD_03
 
 
 ## Screerecording of the website:
